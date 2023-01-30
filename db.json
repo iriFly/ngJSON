@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "test",
+      "category": "Devices",
+      "state": "New",
+      "price": 5,
+      "comment": "test comment",
+      "date": "2022-12-31T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "test2",
+      "category": "Men",
+      "state": "Vintage",
+      "price": 100,
+      "comment": "almost new",
+      "date": "2023-01-17T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "test",
+      "category": "Men",
+      "state": "Second hand",
+      "price": 100,
+      "comment": "test",
+      "date": "2023-01-06T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "test",
+      "category": "Devices",
+      "state": "New",
+      "price": 5,
+      "comment": "test comment",
+      "date": "2022-12-31T23:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
