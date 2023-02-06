@@ -13,7 +13,7 @@ import {MatTableDataSource} from '@angular/material/table';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit{
-  title = 'Angular working wtith JSON';
+  title = 'Angular working with JSON';
   displayedColumns: string[] = ['productName', 'category', 'state', 'price', 'comment', 'date', 'action'];
   dataSource!: MatTableDataSource<any>;
 
